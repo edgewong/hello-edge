@@ -1,0 +1,11 @@
+{
+  "username": "edgewsh@jacobsonpharma.com",
+  "orgId": "00D6A0000001qUoUAI",
+  "accessToken": "9297cda50fff98cb982526da3668298f378f562ca49fd2b0abe371dcba0153e9c41ee5dd3102b052d9f0a6f272f907588e68c6275cdc919b27848441325e8fef3ce3dc3203fe4e6d09b9e80e1ce2dd893b2f7eb3cc9a35502ca0b7dcbf4ed4a973186c878147c6683294609ca645cfc530b999c03f98:efd9153e28600a49854502c54edd5ea2",
+  "refreshToken": "ae5bf41846d18c7dfec3c5db438a11f3a74b7aa7e3cb0aa6e2bcfbbc99fa817389e6f902fd4d56fe14214b5027f2a93877f4ddda97a53491d61174c7a5c7217cd53e925c2150af9d65ec57e92b832fccfb4861e2bca6b47c0b726a0ffe:4950c7ff77def25f7953958a8e246675",
+  "instanceUrl": "https://jgm.my.salesforce.com",
+  "loginUrl": "https://login.salesforce.com",
+  "clientId": "PlatformCLI",
+  "instanceApiVersion": "52.0",
+  "instanceApiVersionLastRetrieved": "16/6/2021 上午11:42:03"
+}
